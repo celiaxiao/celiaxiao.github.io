@@ -42,8 +42,8 @@ jobs:
         run: |
           cd gh-pages
 
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "c6xiao@ucsd.edu"
+          git config --local user.name "celiaxiao"
 
           git add -A .
 
