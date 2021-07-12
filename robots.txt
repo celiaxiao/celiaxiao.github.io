@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://celiaxiao.github.io/sitemap.xml
+Sitemap: https://celiaxiao.github.io/sitemap.xml
