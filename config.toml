@@ -1,4 +1,4 @@
-baseURL = "http://celiaxiao.github.io/"
+baseURL = "https://celiaxiao.github.io/"
 title = "Celia's Blog"
 enableRobotsTXT = true
 enableEmoji = true
